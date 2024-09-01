@@ -1,76 +1,81 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
+<img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" style="width: 100%; height: 50%; object-fit: cover;">
+<br/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BonanseaMariano.BonanseaMariano"/>
+<br/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Mariano+Bonansea!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center" style="line-height: 1.5;">Estudiante de Licenciatura en Informatica en la Universidad Nacional de la Patagonia San Juan Bosco, sede Puerto Madryn.</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🔭 Estoy profundizando mis conocimientos en **Java**, aunque también me apasiona
+explorar nuevas tecnologías y lenguajes de programación.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🌱 **Actualmente estoy aprendiendo:**
+    <li>Desarrollo de aplicaciones con **Spring Boot**.</li>
+    <li>Diseño de interfaces gráficas con **JavaFX** y **JavaSwing**.</li>
+    <li>Bases de datos con **SQLite**, **SQL** y **Postgres**.</li>
 
  </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+
+<br/>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
+<h2 align="center">💻 Lenguajes 💻</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=java,c" /><br>
+</div>
+
+<h2 align="center">🔧 Frameworks 🔧</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=spring" />
+</div>
+
+<h2 align="center">⚒️ Herramientas ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,mysql,postgres,sqlite" /><br>
+</div>
+<div align="center">
+    <h2>📫 Contacto 📫</h2>
+  <a href="mailto:marianobonanseapetrovial@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mariano-nicol%C3%A1s-bonansea-cama%C3%B1o" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Estadísticas ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=BonanseaMariano&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
+    <br/>    
+    <img width=390 src="https://streak-stats.demolab.com/?user=BonanseaMariano&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <br/>
+    <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonanseaMariano&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
-
-<br/>
-
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <h2>🐍 Mis Contribuciones 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BonanseaMariano/BonanseaMariano/output/github-contribution-grid-snake.svg" />
+
+<br/><br/><br/>
+</div>
+<hr/>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes">
 </div>
 
-<br/>
