@@ -6,46 +6,47 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Mariano+Bonansea!;" />
 </h1>
 
-### <div align="center" style="line-height: 1.5;">Estudiante de Licenciatura en Informatica en la Universidad Nacional de la Patagonia San Juan Bosco, sede Puerto Madryn.</div>
+<h3 align="center" style="line-height: 1.5;">Estudiante de Licenciatura en Informatica en la Universidad Nacional de la Patagonia San Juan Bosco, sede Puerto Madryn.</h3>
 
 <br/>
 
 <div align="center">
 
-🔭 Estoy profundizando mis conocimientos en **Java**, aunque también me apasiona
+🔭 Estoy profundizando mis conocimientos en <strong>Java</strong>, aunque también me apasiona
 explorar nuevas tecnologías y lenguajes de programación.
 
-🌱 **Actualmente estoy aprendiendo:**
-    <li>Desarrollo de aplicaciones con **Spring Boot**.</li>
-    <li>Diseño de interfaces gráficas con **JavaFX** y **JavaSwing**.</li>
-    <li>Bases de datos con **SQLite**, **SQL** y **Postgres**.</li>
+🌱 <strong>Actualmente estoy aprendiendo:</strong>
+    <li>Desarrollo de aplicaciones con <strong>Spring Boot</strong>.</li>
+    <li>Diseño de interfaces gráficas con <strong>JavaFX</strong> y <strong>JavaSwing</strong>.</li>
+    <li>Bases de datos con <strong>SQLite</strong>, <strong>SQL</strong> y <strong>Postgres</strong>.</li>
 
  </div>
 
 <br/>
 
- <hr/>
+<hr/>
 
-## <div align="center">💻 Lenguajes 💻</div>
+<h2 align="center">💻 Lenguajes 💻</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,c" /><br>
 </div>
 
-## <div align="center">🔧 Frameworks 🔧</div>
+<h2 align="center">🔧 Frameworks 🔧</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=spring" />
 </div>
 
-## <div align="center">⚒️ Herramientas ⚒️</div>
+<h2 align="center">⚒️ Herramientas ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,mysql,postgres,sqlite" /><br>
 </div>
 
-## <div align="center">📫 Contacto 📫</div>
-<div style="display: flex; flex-direction: row; gap: 15px; justify-content: center">
+<h2 align="center">📫 Contacto 📫</h2>
+<div align="center">
   <a href="mailto:marianobonanseapetrovial@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mariano-nicol%C3%A1s-bonansea-cama%C3%B1o" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
@@ -54,11 +55,11 @@ explorar nuevas tecnologías y lenguajes de programación.
 <br/>
 <hr/>
 
-## <div align="center">⚡ Estadísticas ⚡</div>
+<h2 align="center">⚡ Estadísticas ⚡</h2>
 <br>
 <div align=center>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=BonanseaMariano&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
-    <br/>    
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=BonanseaMariano&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
     <img width=390 src="https://streak-stats.demolab.com/?user=BonanseaMariano&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     <br/>
     <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonanseaMariano&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
@@ -68,7 +69,7 @@ explorar nuevas tecnologías y lenguajes de programación.
 
 <hr/>
 
-## <div align="center">🐍 Mis Contribuciones 🐍</div>
+<h2 align="center">🐍 Mis Contribuciones 🐍</h2>
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BonanseaMariano/BonanseaMariano/output/github-contribution-grid-snake.svg" />
@@ -79,4 +80,3 @@ explorar nuevas tecnologías y lenguajes de programación.
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes">
 </div>
-
