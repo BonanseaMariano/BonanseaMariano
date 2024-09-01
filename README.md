@@ -2,7 +2,7 @@
 <br/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BonanseaMariano.BonanseaMariano"/>
 <br/>
-<h1 align="center" style="border-bottom: none">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Mariano+Bonansea!;" />
 </h1>
 
@@ -47,7 +47,7 @@ explorar nuevas tecnologías y lenguajes de programación.
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mariano-nicol%C3%A1s-bonansea-cama%C3%B1o" target="_blank">
+  <a href="https://www.linkedin.com/in/mariano-nicol%C3%A1s-bonansea-cama%C3%B1o-1b4346244/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </div>
@@ -55,7 +55,7 @@ explorar nuevas tecnologías y lenguajes de programación.
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Estadísticas ⚡</h2>
+<h2 align="center">📊 Estadísticas 📊</h2>
 <br>
 <div align=center>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=BonanseaMariano&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
