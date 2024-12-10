@@ -16,12 +16,14 @@
 
 <br><br>
 
-- :school: Soy un estudiante de Licenciatura en Informatica en la [Universidad Nacional de la Patagonia San Juan Bosco](https://madryn.unp.edu.ar).
-- :technologist: Me apasiona usar el software como solución para cada \`problema\`.
-- :student: Actualmente estoy aprendiendo \`Ciencias de la Computación\` e \`Ingeniería de Software\`.
-- :nerd_face: Siempre \`aprendiendo cosas nuevas\`.
-- :thinking: Estoy abierto a nuevas \`oportunidades laborales\`, aquí está [MI CURRÍCULUM](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: Puedes visitar [Mi portafolios](https://cutt.ly/Ahmed_Hossam_Website).
+<ul>
+  <li>📚 Soy un estudiante de Licenciatura en Informatica en la <a href="https://madryn.unp.edu.ar" target="_blank">Universidad Nacional de la Patagonia San Juan Bosco</a>.</li>
+  <li>👨‍💻 Me apasiona usar el software como solución para cada <code>problema</code>.</li>
+  <li>🎓 Actualmente estoy aprendiendo <code>Ciencias de la Computación</code> e <code>Ingeniería de Software</code>.</li>
+  <li>🤓 Siempre <code>aprendiendo cosas nuevas</code>.</li>
+  <li>🤔 Estoy abierto a nuevas <code>oportunidades laborales</code>, aquí está <a href="#" target="_blank">MI CURRÍCULUM</a>.</li>
+  <li>💥 Puedes visitar <a href="https://marianobonansea.netlify.app" target="_blank">Mi portafolios</a>.</li>
+</ul>
   <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contactame
