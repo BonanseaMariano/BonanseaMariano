@@ -10,11 +10,10 @@
    
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+
+## <img src="" width="50px"> Sobre mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
 
 <ul>
   <li>📚 Soy un estudiante de Licenciatura en Informatica en la <a href="https://madryn.unp.edu.ar" target="_blank">Universidad Nacional de la Patagonia San Juan Bosco</a>.</li>
@@ -37,9 +36,9 @@
    </a>
 </p>
 
-## 🛠️ My Skills
+## 🛠️ Mis Habilidades
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
+### <picture> <img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
 
 <p align="center"> 
   &emsp; 
@@ -182,11 +181,11 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-</br>
-----
+<br>
+
 <p align = "center">
 	<img src="https://readme-jokes.vercel.app/api?theme=gradientBlue" alt="Jokes Card" />
 </p>
