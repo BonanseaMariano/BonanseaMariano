@@ -136,7 +136,7 @@
 ----	
 
 <p align="center">
-  <img alt="BonanseaMariano's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BonanseaMariano&theme=tokyonight_duo"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BonanseaMariano&theme=tokyonight&hide_border=true" alt="BonanseaMariano's GitHub Stats" />
 </p>
 
 </details>
@@ -146,7 +146,7 @@
 ----
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/BonanseaMariano/github-readme-stats">
 	    <img alt="BonanseaMariano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BonanseaMariano&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	    <img alt="BonanseaMariano's Top-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonanseaMariano&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="230px"/>
     <br/>
@@ -157,7 +157,12 @@
 
 ----
 
-[![BonanseaMariano's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BonanseaMariano&theme=github)](https://github.com/BonanseaMariano/github-readme-activity-graph)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="BonanseaMariano's Github Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=BonanseaMariano&theme=tokyo-night" height="230px"/></a>
+    <br/>
+</p>
+
 
 
 </details>
