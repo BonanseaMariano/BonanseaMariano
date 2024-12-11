@@ -7,12 +7,10 @@
 <br>
 
 <p align="center">
-   
+
 </p>
 
-
 ## <img src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/About-me.gif?raw=true" width="50px"> Sobre mi
-
 
 <img align="right" src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Right_Side.gif?raw=true" width="250px;" style="margin-left: 20px; margin-bottom: 20px;">
 <ul>
@@ -41,36 +39,47 @@
 
 ### <img src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Programming_Languages.gif?raw=true" width=50px style="vertical-align: middle;"> Lenguajes de Programación
 
-<div style="display: flex; gap: 5rem; justify-content: center">
+<div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+     &emsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/>
+    &emsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 </div>
 
 ### <img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Front_End.gif?raw=true" width = 50px style="vertical-align: middle;"> Desarrollo Front-End
 
-<div style="display: flex; gap: 5rem; justify-content: center">
+<div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+    &emsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+    &emsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 </div>
 
 ### <img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Software_Tools.gif?raw=true" width = 50px style="vertical-align: middle;"> Software & Herramientas
 
-<div style="display: flex; gap: 5rem; justify-content: center">
+<div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+    &emsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+    &emsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
+     &emsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
+     &emsp; 
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 </div>
 
 ### <img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/IDEs.gif?raw=true" width = 50px style="vertical-align: middle;"> IDEs
 
-<div style="display: flex; gap: 5rem; justify-content: center">
+<div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
+     &emsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm"/>
+     &emsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
+     &emsp;
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 </div>
 
