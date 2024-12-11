@@ -138,6 +138,10 @@
 </br></br>
 
 ---
+## 🐍 Mis Contribuciones
+![snake animation](https://github.com/<BonanseaMariano>/<BonanseaMariano>/blob/output/github-contribution-grid-snake2.svg)
+
+---
 <br>
 
 <p align = "center">
