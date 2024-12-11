@@ -12,16 +12,18 @@
 
 ## <img src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/About-me.gif?raw=true" width="50px"> Sobre mi
 
-<img align="right" src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Right_Side.gif?raw=true" width="250px;" style="margin-left: 20px; margin-bottom: 20px;">
+<img align="right" src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Right_Side.gif?raw=true" width="200px;">
+
 <ul>
   <li>📚 Soy un estudiante de Licenciatura en Informatica en la <a href="https://madryn.unp.edu.ar" target="_blank">Universidad Nacional de la Patagonia San Juan Bosco</a>.</li>
-  <li>👨‍💻 Me apasiona usar el software como solución para cada <code>problema</code>.</li>
-  <li>🎓 Actualmente estoy aprendiendo <code>Ciencias de la Computación</code> e <code>Ingeniería de Software</code>.</li>
-  <li>🤓 Siempre <code>aprendiendo cosas nuevas</code>.</li>
-  <li>🤔 Estoy abierto a nuevas <code>oportunidades laborales</code>, aquí está <a href="#" target="_blank">MI CURRÍCULUM</a>.</li>
+  <li>👨‍💻 Me apasiona usar el software como solución para cada <b>problema</b>.</li>
+  <li>🎓 Actualmente estoy aprendiendo <b>Desarrollo de Apps</b> con <code>Kotlin</code>.</li>
+  <li>🤓 Siempre aprendiendo <b>cosas nuevas</b>.</li>
+  <li>🤔 Estoy abierto a nuevas <b>oportunidades laborales</b>, aquí está <a href="#" target="_blank">MI CURRÍCULUM</a>.</li>
   <li>💥 Puedes visitar <a href="https://marianobonansea.netlify.app" target="_blank">Mi portafolios</a>.</li>
 </ul>
 
+<br>
 <br>
 
 ## <img src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Connect-with-me.gif?raw=true" width="100px" style="vertical-align: middle;" /> Contactame
@@ -135,12 +137,7 @@
 
 </br></br>
 
-## 🐍 A Snake Eating my Contributions Graph
-
-<p align = "center">
-	<img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
+---
 <br>
 
 <p align = "center">
