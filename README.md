@@ -31,6 +31,7 @@
 	<a href="https://www.linkedin.com/in/mariano-nicolás-bonansea-camaño-1b4346244/" target="_blank">
     <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
    </a>
+    &emsp;
    <a href="mailto:marianobonanseapetrovial@gmail.com" target="_blank">
     <img src="svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
    </a>
