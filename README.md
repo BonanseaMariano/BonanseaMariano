@@ -12,8 +12,9 @@
 
 ## <img src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/About-me.gif?raw=true" width="50px"> Sobre mi
 
-<img align="right" src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Right_Side.gif?raw=true" width="200px;">
+<img align="right" src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Right_Side.gif?raw=true" width=30%>
 
+<br><br>
 <ul>
   <li>📚 Soy un estudiante de Licenciatura en Informatica en la <a href="https://madryn.unp.edu.ar" target="_blank">Universidad Nacional de la Patagonia San Juan Bosco</a>.</li>
   <li>👨‍💻 Me apasiona usar el software como solución para cada <b>problema</b>.</li>
@@ -22,8 +23,6 @@
   <li>🤔 Estoy abierto a nuevas <b>oportunidades laborales</b>, aquí está <a href="#" target="_blank">MI CURRÍCULUM</a>.</li>
   <li>💥 Puedes visitar <a href="https://marianobonansea.netlify.app" target="_blank">Mi portafolios</a>.</li>
 </ul>
-
-<br>
 <br>
 
 ## <img src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Connect-with-me.gif?raw=true" width="100px" style="vertical-align: middle;" /> Contactame
