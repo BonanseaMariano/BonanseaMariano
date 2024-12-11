@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/halfrost/halfrost/refs/heads/master/icons/header_1.png">
+<p align="center"><img src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Banner.png?raw=true">
 <h1 align="center">Hola, soy Mariano Bonansea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1500&center=true&vCenter=true&width=435&lines=Estudiante+de+Licenciatura+en+Inform%C3%A1tica;Aspirante+a+Desarrollador+Fullstack;Aspirante+a+Desarrollador+de+Apps" alt="Typing SVG" /></a>
@@ -11,10 +11,10 @@
 </p>
 
 
-## <img src="" width="50px"> Sobre mi
+## <img src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/About-me.gif?raw=true" width="50px"> Sobre mi
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<img align="right" src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Right_Side.gif?raw=true" width="250px;">
 <ul>
   <li>📚 Soy un estudiante de Licenciatura en Informatica en la <a href="https://madryn.unp.edu.ar" target="_blank">Universidad Nacional de la Patagonia San Juan Bosco</a>.</li>
   <li>👨‍💻 Me apasiona usar el software como solución para cada <code>problema</code>.</li>
@@ -23,9 +23,10 @@
   <li>🤔 Estoy abierto a nuevas <code>oportunidades laborales</code>, aquí está <a href="#" target="_blank">MI CURRÍCULUM</a>.</li>
   <li>💥 Puedes visitar <a href="https://marianobonansea.netlify.app" target="_blank">Mi portafolios</a>.</li>
 </ul>
-  <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contactame
+<br>
+
+## <img src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Connect-with-me.gif?raw=true" width="100px" style="vertical-align: middle;" /> Contactame
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/mariano-nicolás-bonansea-camaño-1b4346244/" target="_blank">
@@ -38,7 +39,7 @@
 
 ## 🛠️ Mis Habilidades
 
-### <picture> <img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
+### <img src="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Programming_Languages.gif?raw=true" width="50px" style="vertical-align: middle;"/> Lenguajes de Programación
 
 <p align="center"> 
   &emsp; 
@@ -63,7 +64,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desarrollo Front-End
+### <img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Front_End.gif?raw=true" width = 50px> Desarrollo Front-End
 
 <p align="center"> 
   &emsp; 
@@ -84,7 +85,7 @@
    </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Herramientas
+### <img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Software_Tools.gif?raw=true" width = 50px> Software & Herramientas
 
 <p align="center">
   &emsp;
@@ -113,7 +114,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+### <img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/IDEs.gif?raw=true" width = 50px> IDEs
 
 <p align="center">
   &emsp;
@@ -130,7 +131,7 @@
 
 ---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <img src = "https://github.com/BonanseaMariano/BonanseaMariano/blob/main/images/Statistics.gif?raw=true" width = 50px> Github Stats
 
 <details><summary><h3> 🔥 Rachas</h3></summary>
 
