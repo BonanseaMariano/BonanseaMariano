@@ -18,7 +18,7 @@
 <ul>
   <li>📚 Soy un estudiante de Licenciatura en Informatica en la <a href="https://madryn.unp.edu.ar" target="_blank">Universidad Nacional de la Patagonia San Juan Bosco</a>.</li>
   <li>👨‍💻 Me apasiona usar el software como solución para cada <b>problema</b>.</li>
-  <li>🎓 Actualmente estoy aprendiendo <b>Desarrollo de Apps</b> con <code>Kotlin</code>.</li>
+  <li>🎓 Actualmente estoy aprendiendo <b>Desarrollo Backend</b> con <code>Spring</code>.</li>
   <li>🤓 Siempre aprendiendo <b>cosas nuevas</b>.</li>
   <li>🤔 Estoy abierto a nuevas <b>oportunidades laborales</b>, aquí está <a href="#" target="_blank">MI CURRÍCULUM</a>.</li>
   <li>💥 Puedes visitar <a href="https://marianobonansea.netlify.app" target="_blank">Mi portafolios</a>.</li>
