@@ -21,7 +21,7 @@
   <li>🎓 Actualmente estoy aprendiendo <b>Desarrollo Backend</b> con <code>Spring</code>.</li>
   <li>🤓 Siempre aprendiendo <b>cosas nuevas</b>.</li>
   <li>🤔 Estoy abierto a nuevas <b>oportunidades laborales</b>, aquí está <a href="https://github.com/BonanseaMariano/BonanseaMariano/blob/main/Mariano%20Bonansea.pdf" target="_blank">MI CURRÍCULUM</a>.</li>
-  <li>💥 Puedes visitar <a href="https://marianobonansea.netlify.app" target="_blank">Mi portafolios</a>.</li>
+  <li>💥 Puedes visitar <a href="https://marianobonansea.com" target="_blank">Mi portafolios</a>.</li>
 </ul>
 <br>
 
